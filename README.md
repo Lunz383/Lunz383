@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lunz383
-- 👀 I’m interested in Videogame developement and .NET
+- 👀 I’m interested in Videogame development and .NET
 - 🌱 I’m currently learning C# and .NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
